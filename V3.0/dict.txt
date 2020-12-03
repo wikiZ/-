@@ -1,0 +1,15 @@
+/index.php
+/as.php
+/sad.asp
+/upload/
+/webshell
+/1.php
+/sad
+/asdas
+/polte
+/pls
+/sa
+/aaa
+/flag.txt
+/img
+/MYOA

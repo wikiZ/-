@@ -1,0 +1,5 @@
+http://www.baidu.com - 200  百度一下，你就知道
+https://www.baidu.com/forbiddenip/forbidden.html - 200  您访问的页面不存在!
+http://www.asdsa.com - 200  
+http://www.sdadsa.com - 200  站长工具 - 杭州政新科技有限公司www.sdadsa.com的SEO综合查询
+http://www.github.com - 200  GitHub: Where the world builds software · GitHub
